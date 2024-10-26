@@ -1,3 +1,3 @@
 To run project use:
-npm i
+npm i and
 npm start
